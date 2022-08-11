@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@peculiar/webcrypto": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "jsrsasign": "^10.5.26",
+    "jsrsasign-util": "^1.0.5"
+  }
+}
